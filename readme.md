@@ -1,6 +1,5 @@
 # CV App AI Backend
-
-![cv_app.png](cv_app.png)
+<img src="cv_app.png" alt="cv_app" width="300" height=""/>
 
 
 ```commandline
